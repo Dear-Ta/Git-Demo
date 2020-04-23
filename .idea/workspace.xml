@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="289e9423-1e04-48e5-9b00-c358d3ccf8cb" name="Default Changelist" comment="第二次更改" />
+    <list default="true" id="289e9423-1e04-48e5-9b00-c358d3ccf8cb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/demo-module-1/src/com/duyi/MainTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -62,8 +62,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="510" />
-    <option name="y" value="78" />
+    <option name="x" value="528" />
+    <option name="y" value="43" />
     <option name="width" value="1279" />
     <option name="height" value="920" />
   </component>
@@ -111,7 +111,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -129,7 +129,8 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="408" y="63" width="1023" height="736" extended-state="0" />
+    <frame x="606" y="64" width="1023" height="736" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2373057" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -162,7 +163,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次更改" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次更改" />
+    <MESSAGE value="第二次更改" />
+    <option name="LAST_COMMIT_MESSAGE" value="第二次更改" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/demo-module-1/demo-module-1.iml">
@@ -175,7 +177,7 @@
     <entry file="file://$PROJECT_DIR$/demo-module-1/src/com/duyi/MainTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
